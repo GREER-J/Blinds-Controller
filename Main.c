@@ -1,7 +1,7 @@
 /*
  TITLE: Blind openning device
  VERSION: 1.0
- CREATED: 08.10.18
+ CREATED: 08.10.19
  AUTHOR: GREER, J
   
  LAST MODIFIED: Nil.
